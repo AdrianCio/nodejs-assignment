@@ -1,0 +1,59 @@
+[
+    {
+      "date": "2025-02-01",
+      "country": "NL",
+      "store": "001.Amsterdam",
+      "expected_orders": 1840,
+      "expected_sales_eur": 286140
+    },
+    {
+      "date": "2025-02-01",
+      "country": "NL",
+      "store": "003.Utrecht",
+      "expected_orders": 732,
+      "expected_sales_eur": 64380
+    },
+    {
+      "date": "2025-02-01",
+      "country": "BE",
+      "store": "092.Antwerp",
+      "expected_orders": 924,
+      "expected_sales_eur": 78215
+    },
+    {
+      "date": "2025-02-01",
+      "country": "BE",
+      "store": "018.Brussels",
+      "expected_orders": 1632,
+      "expected_sales_eur": 198213
+    },
+    {
+      "date": "2025-02-02",
+      "country": "NL",
+      "store": "001.Amsterdam",
+      "expected_orders": 1471,
+      "expected_sales_eur": 173381
+    },
+    {
+      "date": "2025-02-02",
+      "country": "NL",
+      "store": "003.Utrecht",
+      "expected_orders": 983,
+      "expected_sales_eur": 101924
+    },
+    {
+      "date": "2025-02-02",
+      "country": "BE",
+      "store": "092.Antwerp",
+      "expected_orders": 892,
+      "expected_sales_eur": 98371
+    },
+    {
+      "date": "2025-02-02",
+      "country": "BE",
+      "store": "018.Brussels",
+      "expected_orders": 2081,
+      "expected_sales_eur": 254381
+    }
+  ]
+  

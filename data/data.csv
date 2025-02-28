@@ -1,0 +1,9 @@
+date,country,store,expected_orders,expected_sales_eur
+2025-02-01,NL,001.Amsterdam,1840,286140
+2025-02-01,NL,003.Utrecht,732,64380
+2025-02-01,BE,092.Antwerp,924,78215
+2025-02-01,BE,018.Brussels,1632,198213
+2025-02-02,NL,001.Amsterdam,1471,173381
+2025-02-02,NL,003.Utrecht,983,101924
+2025-02-02,BE,092.Antwerp,892,98371
+2025-02-02,BE,018.Brussels,2081,254381
